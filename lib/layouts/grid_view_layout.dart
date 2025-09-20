@@ -12,7 +12,7 @@ class GridViewLayout extends StatelessWidget {
         centerTitle: true,
         shadowColor: Colors.black,
         elevation: 1,
-      ``),
+      ),
       body: GridView.builder(
         gridDelegate: SliverGridDelegateWithFixedCrossAxisCount(
           crossAxisCount: 3,
